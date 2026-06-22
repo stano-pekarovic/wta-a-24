@@ -1,1 +1,2 @@
 Meno: Stano
+Napoj: Cola
