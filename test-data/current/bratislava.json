@@ -1,0 +1,18 @@
+{
+  "city": "Bratislava",
+  "country": "SK",
+  "coord": { "lat": 48.1486, "lon": 17.1077 },
+  "observed_at": "2026-06-22T12:00:00Z",
+  "weather": {
+    "condition": "Clear",
+    "description": "clear sky",
+    "icon": "01d"
+  },
+  "temperature_c": 27.4,
+  "feels_like_c": 26.8,
+  "humidity_pct": 41,
+  "pressure_hpa": 1018,
+  "wind": { "speed_ms": 3.2, "deg": 270, "gust_ms": 5.1 },
+  "clouds_pct": 0,
+  "visibility_m": 10000
+}
