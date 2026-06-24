@@ -1,0 +1,54 @@
+{
+  "city": "Bratislava",
+  "country": "SK",
+  "coord": { "lat": 48.1486, "lon": 17.1077 },
+  "generated_at": "2026-06-22T12:00:00Z",
+  "units": "metric",
+  "daily": [
+    {
+      "date": "2026-06-23",
+      "temp_min_c": 16.2,
+      "temp_max_c": 29.1,
+      "condition": "Clear",
+      "humidity_pct": 38,
+      "wind_speed_ms": 3.0,
+      "pop": 0.05
+    },
+    {
+      "date": "2026-06-24",
+      "temp_min_c": 17.8,
+      "temp_max_c": 30.5,
+      "condition": "Clouds",
+      "humidity_pct": 44,
+      "wind_speed_ms": 3.6,
+      "pop": 0.15
+    },
+    {
+      "date": "2026-06-25",
+      "temp_min_c": 19.0,
+      "temp_max_c": 28.3,
+      "condition": "Rain",
+      "humidity_pct": 62,
+      "wind_speed_ms": 5.2,
+      "pop": 0.65
+    },
+    {
+      "date": "2026-06-26",
+      "temp_min_c": 15.5,
+      "temp_max_c": 23.7,
+      "condition": "Rain",
+      "humidity_pct": 71,
+      "wind_speed_ms": 6.1,
+      "pop": 0.80
+    },
+    {
+      "date": "2026-06-27",
+      "temp_min_c": 14.9,
+      "temp_max_c": 25.4,
+      "condition": "Clouds",
+      "humidity_pct": 55,
+      "wind_speed_ms": 4.0,
+      "pop": 0.20
+    }
+  ]
+}
