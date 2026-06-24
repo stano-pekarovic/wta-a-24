@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Meno:Dominika
 Obľúbený nápoj: káva 
+=======
+Meno: DOminika
+>>>>>>> origin/main
